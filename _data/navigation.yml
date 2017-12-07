@@ -5,5 +5,5 @@ main:
    - title: "archive"
      url: /archive/
    - title: "c/v"
-     url: resume.pdf
+     url: /assets/pdf/resume.pdf
   
