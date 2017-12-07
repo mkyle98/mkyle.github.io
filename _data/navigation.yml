@@ -1,0 +1,9 @@
+# main links
+main:
+   - title: "about"
+     url: /about/
+   - title: "archive"
+     url: /archive/
+   - title: "c/v"
+     url: resume.pdf
+  
