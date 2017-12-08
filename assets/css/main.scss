@@ -2,7 +2,13 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 /* colors */
-
+$background-color: #80A4BC ;
+$masthead-link-color: #F8F8F8;
+$link-color: #F8F8F8;
+$link-color-visited: mix(#000, #7a8288, 40%) !default;;
+$body-color: #001C3C;
+$muted-text-color: 	#230308;
+$text-color: #080808;
 
 
 @charset "utf-8";
