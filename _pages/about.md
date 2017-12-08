@@ -20,6 +20,8 @@ outside of computers i enjoy writing and have been making contributions to uvm's
 
 thanks for visiting i hope you enjoy your stay!
 
+oh also the site title is from Eloisa to Abelard by Alexander Pope
+
 
 
 
