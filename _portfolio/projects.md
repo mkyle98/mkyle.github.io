@@ -7,8 +7,12 @@ layout: single
 
 ---
 
-[10,000 words or less](https://kmac.w3.uvm.edu/cs008/final/index.php)
-======
+# [10,000 words or less](https://kmac.w3.uvm.edu/cs008/final/index.php)
+
+
+{% include figure image_path="/assets/images/project1.png" alt="screenshot of website" %}
+
+
 a showcase of my favorite poets
 
 final project for my intro to web development class and submission to UVM's 2016 CS Fair
