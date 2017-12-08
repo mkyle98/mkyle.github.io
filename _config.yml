@@ -86,7 +86,7 @@ analytics:
 author:
   name             : "kyle mac"
   avatar           : "/assets/images/biopic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "an undergraduate CS student at UVM"
+  bio              : "undergraduate CS student at UVM"
   location         : " btv | nyc"
   email            : "kylem.sde@gmail.com"
   uri              :
