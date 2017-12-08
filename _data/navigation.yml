@@ -4,6 +4,8 @@ main:
      url: /about/
    - title: "archive"
      url: /archive/
+   - title: "projects"
+     url: /projects/
    - title: "c/v"
      url: /assets/pdf/resume.pdf
   

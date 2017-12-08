@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 remote_theme: "mmistakes/minimal-mistakes"
 
-minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en"
-title                    : "k m"
+title                    : "lov'd idea lies"
 title_separator          : "|"
 name                     : "Kyle Mac"
 description              : "A personal portofolio website"
@@ -84,10 +84,10 @@ analytics:
 # Site Author
 author:
   name             : "kyle mac"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/biopic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "an undergraduate CS student at UVM"
   location         : " btv | nyc"
-  email            :
+  email            : "kylem.sde@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -95,12 +95,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "mkyle98"
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
-  lastfm           :
+  lastfm           : "dntwrry"
   linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
@@ -246,3 +246,8 @@ tag_archive:
 #     tag: /tags/:name/
 # Pages
 include: ["_pages"]
+#Collections
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
